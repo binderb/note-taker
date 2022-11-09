@@ -1,0 +1,23 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "A simple app to take and store notes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binderb/note-taker.git"
+  },
+  "author": "binderb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binderb/note-taker/issues"
+  },
+  "homepage": "https://github.com/binderb/note-taker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
