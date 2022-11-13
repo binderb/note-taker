@@ -69,7 +69,7 @@ notes.delete('/:id', (req, res) => {
         status: 'success',
         body: new_db
       };
-      res.status(201).json(response);
+      res.status(204).json(response);
     } else {
       res.status(500).json('Error in deleting note.');
     }
