@@ -25,7 +25,7 @@ Usage instructions:
 
 ## Credits
 
-This project is designed to showcase the developer's ability to design an Express.js back-end, and link it to a preexisting web front-end. All code in the `public/` directory was therefore provided by the UofM Coding Bootcamp (Trilogy Education Services), while the rest of the code (including `server.js` and all files in `routes/`) was written by the developer.
+This project is designed to showcase the developer's ability to implement an Express.js back end and link it to a preexisting web front end. All code in the `public/` directory was therefore provided by the UofM Coding Bootcamp (Trilogy Education Services), while the rest of the code (including `server.js` and all files in `routes/`) was written by the developer.
 
 ## License
 
