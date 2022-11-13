@@ -7,6 +7,7 @@ A simple app with an Express/Node.js server implementation, wherein users can vi
 - Use of **Express.js** to implement the server architecture.
 - Use of **modular routing** to compartmentalize endpoints.
 - Implementation of `GET`, `POST`, and `DELETE` API routes for use by a preexisting front end.
+- Implementation of a **wildcard route** to catch erroneously entered endpoints.
 - Use of Node's `fs` module to read, write, and delete note data.
 - Use of the `uuid` npm package to assign unique identifiers to individual notes.
 
@@ -14,7 +15,7 @@ A simple app with an Express/Node.js server implementation, wherein users can vi
 
 ## Usage
 
-A deployed instance of the app is available on Heroku.
+A deployed instance of the app is available [here on Heroku](https://radiant-forest-02676.herokuapp.com/).
 
 Usage instructions:
 - To add a new note, click the '+' symbol in the upper right corner of the UI, and type your desired title and body in the appropriate fields. 
